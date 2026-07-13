@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Can
 
-<!--
-**muhammedcanarica/muhammedcanarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on game development, gameplay systems, and interactive applications.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 2D games and gameplay systems with Unity and C#
+* Interactive browser experiences with JavaScript and React
+* Hardware-integrated applications using ESP32
+* Software projects focused on clean architecture and usability
+
+## Featured Projects
+
+### AirTune
+
+A webcam-based interactive music application that uses hand tracking and the Web Audio API.
+
+### Wimmia
+
+A 2D Unity game focused on character movement, combat systems, level design, and boss encounters.
+
+### Smart Locker Dashboard
+
+A React dashboard for monitoring an ESP32-powered smart locker system, including locker status, access codes, logs, and system alerts.
+
+### Smart Campus Announcement System
+
+A Java application demonstrating layered architecture and software design patterns through a campus notification system.
+
+## Technologies
+
+`Unity` `C#` `JavaScript` `React` `Java` `ESP32` `Git` `GitHub`
+
+## Currently Working On
+
+* Improving gameplay systems and boss encounters in Unity
+* Building interactive audio experiences for the web
+* Expanding my game development portfolio
