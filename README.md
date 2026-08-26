@@ -1,38 +1,49 @@
-# Hi, I'm Can
+# Hi, I'm Can 👋
 
-Computer Engineering student focused on game development, gameplay systems, and interactive applications.
+Computer Engineering student building **backend systems, developer tools, computer vision applications, and games**.
 
-## What I Build
-
-* 2D games and gameplay systems with Unity and C#
-* Interactive browser experiences with JavaScript and React
-* Hardware-integrated applications using ESP32
-* Software projects focused on clean architecture and usability
+I enjoy turning practical problems into working software, from network monitoring and license-plate recognition to reusable Unity systems and gameplay prototypes.
 
 ## Featured Projects
 
-### AirTune
+| Project                                                                 | What it is                                                                                                                                                                       | Tech                                                              |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [**NetScope**](https://github.com/muhammedcanarica/NetworkMonitor)      | Vendor-neutral network monitoring and operations web app with device monitoring, SNMP tools, incidents, alerts, topology discovery, configuration backups, and realtime updates. | `.NET 10` `ASP.NET Core` `EF Core` `SignalR` `React` `TypeScript` |
+| [**CamerBound**](https://github.com/muhammedcanarica/CamerBound)        | Windows desktop application that detects Turkish license plates from ENTRY/EXIT camera feeds and keeps local vehicle movement records.                                           | `Python` `PySide6` `OpenVINO` `PaddleOCR` `SQLite`                |
+| [**DungeonWeaver**](https://github.com/muhammedcanarica/dungeon-weaver) | Seed-based deterministic 2D procedural dungeon system distributed as a reusable Unity Package Manager package.                                                                   | `Unity 6` `C#` `UPM` `Tilemap`                                    |
+| [**PipeMuzzle**](https://github.com/muhammedcanarica/PipeMuzzle)        | Data-driven 2D mobile pipe puzzle prototype with reusable level definitions and BFS-based connectivity checks.                                                                   | `Unity 6` `C#` `ScriptableObject`                                 |
 
-A webcam-based interactive music application that uses hand tracking and the Web Audio API.
+## What I'm Focused On
 
-### Wimmia
+* C# and .NET backend development
+* REST APIs, authentication and authorization
+* PostgreSQL and data modeling
+* Clean and layered architecture
+* Unity gameplay systems and reusable tooling
+* Building portfolio projects that solve real problems instead of existing only as tutorial clones
 
-A 2D Unity game focused on character movement, combat systems, level design, and boss encounters.
+## Tech I Work With
 
-### Smart Locker Dashboard
+**Backend & Software**
+`C#` `.NET` `ASP.NET Core` `Entity Framework Core` `Python` `Java`
 
-A React dashboard for monitoring an ESP32-powered smart locker system, including locker status, access codes, logs, and system alerts.
+**Frontend**
+`React` `TypeScript` `JavaScript` `Vite`
 
-### Smart Campus Announcement System
+**Game Development**
+`Unity` `C#` `2D Gameplay Systems` `Procedural Generation`
 
-A Java application demonstrating layered architecture and software design patterns through a campus notification system.
+**Data & Infrastructure**
+`PostgreSQL` `SQLite` `Git` `GitHub` `REST APIs` `SignalR`
 
-## Technologies
+**Other Areas I've Worked With**
+`Computer Vision` `OCR` `SNMP` `ESP32` `Networking`
 
-`Unity` `C#` `JavaScript` `React` `Java` `ESP32` `Git` `GitHub`
+## Currently
 
-## Currently Working On
+I'm strengthening my backend foundations with **C#/.NET, PostgreSQL, API design, authentication/authorization, and layered architecture**, while continuing to build and refine Unity projects.
 
-* Improving gameplay systems and boss encounters in Unity
-* Building interactive audio experiences for the web
-* Expanding my game development portfolio
+## More
+
+* [Portfolio Repository](https://github.com/muhammedcanarica/portfolio)
+* [All Repositories](https://github.com/muhammedcanarica?tab=repositories)
